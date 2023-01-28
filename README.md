@@ -1,5 +1,7 @@
 # Examen_ExtraOrdinaria_mario_perez
 
+https://github.com/kersaki/Examen_ExtraOrdinaria_mario_perez.git
+
 1.1 Creación (0,5 puntos)
  
 Crea una clase llamada armaduras.py que tenga los atributos nombre y rango
